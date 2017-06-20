@@ -1,0 +1,25 @@
+<Solution>
+  <PropertyGroup Name="Bullets" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="cocosstudio">
+          <Folder Name="font">
+            <TTF Name="FZ_GBK.ttf" />
+          </Folder>
+          <Folder Name="img">
+            <Image Name="button_down.png" />
+            <Image Name="button_up.png" />
+            <Image Name="dian.png" />
+            <Image Name="HelloWorld.png" />
+            <Image Name="yuan_huan.png" />
+          </Folder>
+          <Folder Name="ui">
+            <Project Name="GameScene.csd" Type="Scene" />
+            <Project Name="MainScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
